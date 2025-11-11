@@ -1,0 +1,65 @@
+h1 {
+    color: green;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+p {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h2 {
+    background-color: blue;
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3 {
+    color: green;
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace ;
+    size: 12px;    
+}
+table,th,td {
+    background-color: orange;
+    border: 2px solid red;
+}
+a:link {
+    text-decoration: none;
+    font-size: 1,5em;
+    
+}
+:link {
+    font-weight: 100;
+    size: 1,5em;
+    color: green;
+}
+:visited {
+color: green;
+font-style: italic;
+
+}
+:hover {
+    color: orange;
+    background-color: green;
+    size: 18ptos;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+:active {
+    color: red;
+    font-weight: 100;
+    size: 14pt;
+}
+.importante {
+    color: pink;
+    background-color: ;
+}
+.titulo-grande {
+    font-weight: 100;
+    font-size: 20px;
+    color: orange;
+}
+#retrato {
+    width: 30%;
+}
